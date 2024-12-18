@@ -12,7 +12,7 @@ L'applicazione è progettata per rendere rapida e semplice la ricerca di version
 - Suggerimenti: Se il gioco cercato non è disponibile, il bot suggerisce titoli simili.
 - Aggiornamenti database: Un amministratore può aggiornare manualmente i dati per garantire accuratezza e completezza.
 - Sistema interattivo: Interfaccia semplice e intuitiva per rendere l’utilizzo immediato.
-- API: 8192069321:AAGHldWhP_U94sGX7Pr_8VD48-sCVVQ2m3o
+- API: 
 
 ### Tecnologie utilizzate
 - Linguaggio di programmazione: Java.
